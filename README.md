@@ -10,3 +10,5 @@ npm install
 ```sh
 npm run start
 ```
+
+### Run `localhost:3000` on browser
